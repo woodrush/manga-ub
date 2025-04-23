@@ -1,0 +1,12 @@
+Pillow
+numpy
+pandas
+tabulate
+shapely
+transformers
+sentencepiece
+accelerate
+protobuf
+einops
+xformers
+openai
