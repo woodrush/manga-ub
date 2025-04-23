@@ -1,5 +1,5 @@
 # MangaUB: A Manga Understanding Benchmark for Large Multimodal Models
-This is the official repository of MangaUB. Paper: [https://arxiv.org/abs/2407.19034](https://arxiv.org/abs/2407.19034)
+This is the official repository of MangaUB. Paper: [https://doi.org/10.1109/MMUL.2025.3550451](https://doi.org/10.1109/MMUL.2025.3550451)
 
 
 ## Summary
@@ -209,16 +209,15 @@ This will generate `stats.tex`, which contains a table of the benchmark task sta
 
 
 ## Citation
-When using MangaUB or if you find our work helpful, please cite our following [paper](https://arxiv.org/abs/2407.19034):
+When using MangaUB or if you find our work helpful, please cite our following [paper](https://doi.org/10.1109/MMUL.2025.3550451):
 ```bibtex
-@misc{mangaub2024,
-      title={MangaUB: A Manga Understanding Benchmark for Large Multimodal Models},
-      author={Hikaru Ikuta and Leslie Wöhler and Kiyoharu Aizawa},
-      year={2024},
-      eprint={2407.19034},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.19034},
+@article{mangaub2025,
+  author={Ikuta, Hikaru and Wohler, Leslie and Aizawa, Kiyoharu},
+  journal={IEEE MultiMedia},
+  title={MangaUB: A Manga Understanding Benchmark for Large Multimodal Models},
+  year={2025},
+  pages={1-10},
+  doi={10.1109/MMUL.2025.3550451}
 }
 ```
 
