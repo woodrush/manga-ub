@@ -1,0 +1,9 @@
+[submodule "external/LLaVA"]
+	path = external/LLaVA
+	url = https://github.com/haotian-liu/LLaVA.git
+[submodule "external/COO-Comic-Onomatopoeia"]
+	path = external/COO-Comic-Onomatopoeia
+	url = https://github.com/ku21fan/COO-Comic-Onomatopoeia
+[submodule "external/public-annotations"]
+	path = external/public-annotations
+	url = https://github.com/manga109/public-annotations.git
